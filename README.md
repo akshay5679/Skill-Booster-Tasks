@@ -27,3 +27,17 @@ Beginner → Intermediate
 - Steghide / Binwalk
 - Note: Some challenges may require additional tools depending on the approach.
 ---
+
+---
+
+---
+
+## 🎥 Getting Started Guide
+
+If you're new to these challenges, this video will help you understand how to approach them:
+
+https://www.youtube.com/watch?v=1c3BUDi0UMA
+
+It focuses on the mindset and general methodology for solving cybersecurity challenges.
+
+⚠️ Note: This video does not cover specific tools or solutions. Try exploring and solving the challenges on your own.
