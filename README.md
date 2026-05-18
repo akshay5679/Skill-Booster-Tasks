@@ -27,11 +27,6 @@ Beginner → Intermediate
 - Steghide / Binwalk
 - Note: Some challenges may require additional tools depending on the approach.
 ---
-
----
-
----
-
 ## 🎥 Getting Started Guide
 
 If you're new to these challenges, this video will help you understand how to approach them:
